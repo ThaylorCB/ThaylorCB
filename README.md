@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thaylor!
 
-<!--
-**ThaylorCB/ThaylorCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💼 Experiência em **suporte técnico** e **gestão financeira**  
+🚀 Em transição de carreira para a área de **tecnologia**  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sobre mim
+- Atualmente trabalho como **Analista de Suporte Técnico** em um sistema de gestão governamental  
+- Sou formado em **Gestão Financeira** e tenho experiência anterior em finanças e administração  
+- Iniciei minha jornada em **programação e desenvolvimento de sistemas** recentemente e estou entusiasmado com os novos aprendizados  
+- Interesse especial em unir **finanças + tecnologia** para criar soluções práticas e inovadoras  
+
+---
+
+## 📚 O que estou aprendendo
+- Lógica de programação  
+- Fundamentos de desenvolvimento de software  
+- Tecnologias e linguagens que vou explorar: **Python, SQL, Git/GitHub, JavaScript**  
+
+---
+
+## 🚀 Objetivos
+- Consolidar minha carreira em tecnologia  
+- Desenvolver projetos que unam **gestão, finanças e TI**  
+- Contribuir para a comunidade com meus estudos e aprendizados  
+
+---
+
+## 📫 Vamos nos conectar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaylorcb/)  
